@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = "1716093972:AAHd9CQPyXkZ1c_hWgyyoXPhyJNDzWKDux0"
+    BOT_TOKEN = "1859423919:AAHmDVbOF5CdbLUcYOK1eBES0V4dyX7gTic"
     APP_ID = "5770598"
     API_HASH = "40639f24990e3e8443512d14a4744c16"
-    DATABASE_URL = "postgres://goybmttamdskbm:cc1762df53145745fe6a2734c848c2e175cdb8183a366afff68d281b25b290d6@ec2-54-166-167-192.compute-1.amazonaws.com:5432/d5fjihoj0d5ass"
+    DATABASE_URL = "postgres://pmdiewicrquvoy:93af10b8142063d2b5d7ac83bff6eb1df218fb2323842002ae92fcaa46ae0a07@ec2-34-195-143-54.compute-1.amazonaws.com:5432/d3nshu1e8ri51j"
     SUDO_USERS = "1032328550" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "https://t.me/joinchat/bj1hgw7RnV9lODZh"
+    SUPPORT_CHAT_LINK = "https://t.me/joinchat/jdaPiWGxCs41NzAx"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
